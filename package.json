@@ -1,0 +1,19 @@
+{
+  "name": "hotrestaurant",
+  "version": "1.0.0",
+  "description": "13.3 In-Class Group Assignment",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgallagher12/HotRestaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgallagher12/HotRestaurant/issues"
+  },
+  "homepage": "https://github.com/mgallagher12/HotRestaurant#readme"
+}

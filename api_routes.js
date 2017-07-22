@@ -17,8 +17,6 @@ app.get("/api/---", function(req, res) {
     //     return res.json(wait[i]);
     // }
     return res.json(wait,reserved);
-    
-  
 });
 
 // Create New Characters - takes in JSON input

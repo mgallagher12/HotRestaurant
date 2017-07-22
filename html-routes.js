@@ -1,6 +1,6 @@
 module.exports = function (app){
 
-// Basic route that sends the user first to the AJAX Page
+// Basic route that sends the website html pages
 app.get("/", function(req, res) {
   res.sendFile(path.join(__dirname, "index.html"));
 });

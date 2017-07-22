@@ -2,7 +2,11 @@
   "name": "hotrestaurant",
   "version": "1.0.0",
   "description": "13.3 In-Class Group Assignment",
+<<<<<<< HEAD
   "main": "api.js",
+=======
+  "main": "server.js",
+>>>>>>> 0f4b3572ce397fcb95b148fdc7ff6160fdd94bf0
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,4 +20,8 @@
     "url": "https://github.com/mgallagher12/HotRestaurant/issues"
   },
   "homepage": "https://github.com/mgallagher12/HotRestaurant#readme"
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 0f4b3572ce397fcb95b148fdc7ff6160fdd94bf0
 }
